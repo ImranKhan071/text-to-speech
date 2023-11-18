@@ -4,7 +4,7 @@ This is text-to-speech converter using [AWS Polly](https://aws.amazon.com/polly/
 
 ## Live Site
 
-The project is hosted on Vercel and can be accessed [here](https://text-to-speech-ivory.vercel.app/).
+The project is hosted on Vercel and can be accessed [here](https://text-to-speech-lemon.vercel.app/).
 
 ## Features
 
